@@ -4,7 +4,9 @@
 My answers to the CSES.fi Problem Set Questions written in Python 3.
 ## Feedback
 
-If you have any feedback, please reach out to me at arnisbartusevicius@proton.me
+If you have any feedback, please reach out to me at arnisbartusevicius@proton.me 
+
+Alternatively you can reach out to me on [Discord](https://discord.com/): @_arnis
 
 
 ## Authors
